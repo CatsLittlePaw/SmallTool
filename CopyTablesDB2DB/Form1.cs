@@ -130,7 +130,6 @@ namespace CopyTablesDB2DB
             TB.Text = "new";
 	        TB.Location = new Point(10, 10); 
 	        TB.Size = new Size(40, 22); 
-	        Parameters.Controls.Add(TB);
         }
 
         /// <summary>
@@ -160,18 +159,7 @@ namespace CopyTablesDB2DB
                 return;
             }      
 
-            //參數欄位設定
-            if (!string.IsNullOrEmpty(Parameters.Text))
-            {
-                paraList = Parameters.Text.Split(',');
-
-                for (var i = 0; i < paraList.Length; ++i)
-                {
-                    string paraVal = paraList[i];
-                    string queryString = string.Concat("{", i + 1, "}");
-                    formatString = formatString.Replace(queryString, paraVal);
-                }
-            }            
+                     
 
             //檔案傳入列表作為參數
             if (!string.IsNullOrEmpty(inputUrl.Text))

@@ -16,3 +16,12 @@ E:\小工具\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.csprojResolveAssemblyRefe
 E:\小工具\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.Form1.resources
 E:\小工具\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.Properties.Resources.resources
 E:\小工具\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.csproj.GenerateResource.Cache
+E:\SmallTool\CopyTablesDB2DB\bin\Debug\CopyTablesDB2DB.exe.config
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.exe
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.pdb
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.csprojResolveAssemblyReference.cache
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.Form1.resources
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.Properties.Resources.resources
+E:\SmallTool\CopyTablesDB2DB\obj\Debug\CopyTablesDB2DB.csproj.GenerateResource.Cache
+E:\SmallTool\CopyTablesDB2DB\bin\Debug\CopyTablesDB2DB.exe
+E:\SmallTool\CopyTablesDB2DB\bin\Debug\CopyTablesDB2DB.pdb
